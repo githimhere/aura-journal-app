@@ -1,0 +1,8 @@
+{
+  "name": "Aura Journal",
+  "description": "A daily photo and mood journal featuring liquid glass UI, neumorphism, and AI-powered weekly insights.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
